@@ -1,14 +1,3 @@
-- [描述词结构](#描述词结构)
-- [效果示例](#效果示例)
-- [关键词入门指南](#关键词入门指南)
-  - [灯光描述](#灯光描述)
-  - [色彩描述](#色彩描述)
-  - [质感描述](#质感描述)
-  - [构图描述](#构图描述)
-  - [视角描述](#视角描述)
-  - [风格描述](#风格描述)
-
-
 ## 描述词结构
 
 > 主体描述 + 环境场景 + 艺术风格 + 媒介材料 + 摄像机视角 + 精度定义
@@ -31,35 +20,29 @@
 An adventurous 8 year old cute boy who likes to explore and learn about the world, in the forest, Pixar animation style, C4D, OC renderer bust shot, clay sculpture material, film lighting, high quality, many details, high definition
 ```
 
+![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Example.png)
+
+## ComfyUI 配置示例
+
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/ComfyUI.png)
 
-![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Example.png)
+## Prompt 生成器
+
+![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt_Gen.png)
 
 ## 关键词入门指南
 
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt.png)
 
-### 灯光描述
-
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt1.webp)
-
-### 色彩描述
 
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt2.webp)
 
-### 质感描述
-
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt3.webp)
-
-### 构图描述
 
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt4.webp)
 
-### 视角描述
-
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt5.webp)
-
-### 风格描述
 
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt6.webp)
 
