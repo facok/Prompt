@@ -22,13 +22,13 @@ An adventurous 8 year old cute boy who likes to explore and learn about the worl
 
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Example.png)
 
-## ComfyUI 配置示例
-
-![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/ComfyUI.png)
-
 ## Prompt 生成器
 
 ![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/Prompt_Gen.png)
+
+## ComfyUI 配置示例
+
+![](https://ghproxy.com/https://github.com/Mr-jiangrj/Prompt/blob/main/img/ComfyUI.png)
 
 ## 关键词入门指南
 
