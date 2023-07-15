@@ -1,3 +1,15 @@
+## 工具链接
+
+> ComfyUI：[https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+>
+> 基础模型：[https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9](https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9)
+>
+> 精细化模型：[https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9)
+>
+> ComfyUI 配置：[https://github.com/Mr-jiangrj/Prompt/blob/main/SDXL0.9_Example.json](https://github.com/Mr-jiangrj/Prompt/blob/main/SDXL0.9_Example.json)
+>
+> Prompt 生成器：[https://github.com/Mr-jiangrj/Prompt/blob/main/Prompt%20%E7%94%9F%E6%88%90%E5%99%A8.xlsx](https://github.com/Mr-jiangrj/Prompt/blob/main/Prompt%20%E7%94%9F%E6%88%90%E5%99%A8.xlsx)
+
 ## 描述词结构
 
 > 主体描述 + 环境场景 + 艺术风格 + 媒介材料 + 摄像机视角 + 精度定义
