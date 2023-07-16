@@ -6,7 +6,7 @@
 >
 > 精细化模型：[https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9)
 >
-> ComfyUI 配置：[https://github.com/Mr-jiangrj/Prompt/blob/main/SDXL0.9_Example.json](https://github.com/Mr-jiangrj/Prompt/blob/main/SDXL0.9_Example.json)
+> ComfyUI 配置：[https://github.com/Mr-jiangrj/Prompt/blob/main/SDXL_v0.9.json](https://github.com/Mr-jiangrj/Prompt/blob/main/SDXL_v0.9.json)
 >
 > Prompt 生成器：[https://github.com/Mr-jiangrj/Prompt/blob/main/Prompt%20%E7%94%9F%E6%88%90%E5%99%A8.xlsx](https://github.com/Mr-jiangrj/Prompt/blob/main/Prompt%20%E7%94%9F%E6%88%90%E5%99%A8.xlsx)
 
